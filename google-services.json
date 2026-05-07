@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279189306186",
+    "project_id": "braided-horizon-486708-r7",
+    "storage_bucket": "braided-horizon-486708-r7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279189306186:android:133e43112f9609c75a5fb3",
+        "android_client_info": {
+          "package_name": "com.raza7304.bizcardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279189306186-7u902b1co268fq1dfain1j0lsjtuk1m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDfRovTN0BmT69qjwNYMRAfeSFtNHCM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279189306186-7u902b1co268fq1dfain1j0lsjtuk1m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
